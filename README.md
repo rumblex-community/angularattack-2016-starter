@@ -25,13 +25,16 @@ Clone this repo locally, and make sure all your team members have access to it.
 * `npm start` will start the server locally to test that everything is running correctly
 
 
-## Deploy Your App
+## Step 2) Deploy Your App
 
 While you can't make any checkins, what you **can** do is deploy this sample app to [Surge](https://surge.sh) (our competition hosting provider).
 
 * `npm install -g surge`
 
 * `surge .`
+
+
+## Step 3) Wait til competition starts ([May 14 at 00:00 UTC](https://www.wolframalpha.com/input/?i=May+14,+2016+0:00+UTC)), then start coding over this project!
 
 
 ## Learn More about Angular2
