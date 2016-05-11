@@ -16,9 +16,13 @@ Clone this repo locally, and make sure all your team members have access to it.
 
 * Install the latest [Node / NPM](https://nodejs.org).
 
-* Run `npm install` in the project directory
+* `git clone git@github.com:rumblex-community/angularattack-2016-starter.git`
 
-* Run `npm start` to test that everything is running correctly locally
+* `cd angularattack-2016-starter`
+
+* `npm install`
+
+* `npm start` will start the server locally to test that everything is running correctly
 
 
 ## Deploy Your App
