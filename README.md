@@ -2,9 +2,9 @@
 
 This repo is the start of your AngularAttack 2016 entry. It contains the simple [Angular2 starter](https://angular.io/docs/ts/latest/quickstart.html) files.
 
-**DO NOT MAKE ANY CODE CHECKINS TO THIS REPOSITORY BEFORE THE COMPETITION OFFICIALLY BEGINS. **
+**DO NOT MAKE ANY CODE CHECKINS TO THIS REPOSITORY BEFORE THE COMPETITION OFFICIALLY BEGINS.**
 
-**DOING SO COULD DISQUALIFY YOU**
+**DOING SO COULD DISQUALIFY YOU.**
 
 
 However, before the competition starts, there are some things we encourage you to do to get prepared for the competition.
