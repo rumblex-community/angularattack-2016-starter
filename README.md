@@ -33,8 +33,12 @@ While you can't make any checkins, what you **can** do is deploy this sample app
 
 * `surge .`
 
+Note: please do not remove the `CNAME` file, as that tells it where to deploy to.
 
-## Step 3) Wait til competition starts ([May 14 at 00:00 UTC](https://www.wolframalpha.com/input/?i=May+14,+2016+0:00+UTC)), then start coding over this project!
+
+## Step 3) Wait til competition starts
+
+It begins at exactly [May 14 at 00:00 UTC](https://www.wolframalpha.com/input/?i=May+14,+2016+0:00+UTC). Once the competition starts,   you can write over this project.
 
 
 ## Learn More about Angular2
