@@ -1,8 +1,6 @@
-# Your AngularAttack 2016 Entry
+# This is your [AngularAttack](https://www.angularattack.com) 2016 Repo
 
 This repo is the start of your AngularAttack 2016 entry. It contains the simple [Angular2 starter](https://angular.io/docs/ts/latest/quickstart.html) files.
-
-Read a comprehensive tutorial [here](https://angular.io/docs/ts/latest/tutorial/).
 
 **DO NOT MAKE ANY CODE CHECKINS TO THIS REPOSITORY BEFORE THE COMPETITION OFFICIALLY BEGINS. **
 
@@ -30,3 +28,10 @@ While you can't make any checkins, what you **can** do is deploy this sample app
 * `npm install -g surge`
 
 * `surge .`
+
+
+## Learn More about Angular2
+
+* [Offical Tutorial](https://angular.io/docs/ts/latest/tutorial/).
+
+... more ...
