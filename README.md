@@ -40,9 +40,3 @@ Note: please do not remove the `CNAME` file, as that tells it where to deploy to
 
 It begins at exactly [May 14 at 00:00 UTC](https://www.wolframalpha.com/input/?i=May+14,+2016+0:00+UTC). Once the competition starts,   you can write over this project.
 
-
-## Learn More about Angular2
-
-* [Offical Tutorial](https://angular.io/docs/ts/latest/tutorial/).
-
-... more ...
