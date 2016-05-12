@@ -10,7 +10,7 @@ This repo is the start of your AngularAttack 2016 entry. It contains the simple 
 However, before the competition starts, there are some things we encourage you to do to get prepared for the competition.
 
 
-## Step 1) Get Your Local Environment setup
+### Step 1) Get Your Local Environment setup
 
 Clone this repo locally, and make sure all your team members have access to it.
 
@@ -25,9 +25,9 @@ Clone this repo locally, and make sure all your team members have access to it.
 * `npm start` will start the server locally to test that everything is running correctly
 
 
-## Step 2) Deploy Your App
+### Step 2) Deploy Your App
 
-While you can't make any checkins, what you **can** do is deploy this sample app to [Surge](https://surge.sh) (our competition hosting provider).
+While you can't make any checkins before the comp, what you **can** do right now is deploy this sample app to [Surge](https://surge.sh) (our competition hosting provider).
 
 * `npm install -g surge`
 
@@ -35,12 +35,14 @@ While you can't make any checkins, what you **can** do is deploy this sample app
 
 Note: please do not remove the `CNAME` file, as that tells it where to deploy to.
 
-## Step 3) Add Your Team Members
+If receive the message "You do not have permission to publish to ${team_subdomain}.2016.angularattack.io", it might mean another team member has already deployed your project to Surge. Ask them to run the next step to give you access.
+
+### Step 3) Add Your Team Members to Surge
 
 * `surge . --add ${team_member_emails}`
 
 
-## Step 4) Wait til competition starts
+### Step 4) Wait til competition starts
 
 It begins at exactly [May 14 at 00:00 UTC](https://www.wolframalpha.com/input/?i=May+14,+2016+0:00+UTC). Once the competition starts,   you can write over this project.
 
