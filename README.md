@@ -35,7 +35,7 @@ While you can't make any checkins before the comp, what you **can** do right now
 
 Note: please do not remove the `CNAME` file, as that tells it where to deploy to.
 
-If receive the error message `"You do not have permission to publish to ${team_subdomain}.2016.angularattack.io"`, it might mean another team member has already deployed your project to Surge. Ask them to run the next step to give you access.
+If you receive an error message `"You do not have permission to publish to ${team_subdomain}.2016.angularattack.io"`, it might mean another team member has already deployed your project to Surge. Ask them to run the next step to give you access.
 
 ### Step 3) Add Your Team Members to Surge
 
