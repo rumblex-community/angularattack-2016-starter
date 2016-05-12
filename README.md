@@ -37,7 +37,7 @@ Note: please do not remove the `CNAME` file, as that tells it where to deploy to
 
 ## Step 3) Add Your Team Members
 
-* `surge . --add ${team_member_emails}
+* `surge . --add ${team_member_emails}`
 
 
 ## Step 4) Wait til competition starts
